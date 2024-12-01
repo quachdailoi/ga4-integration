@@ -8,7 +8,7 @@ const tagManagerArgs: TagManagerArgs = {
     gtmId: 'GTM-MJWVM5WH',
 };
 
-TagManager.initialize(tagManagerArgs);
+//TagManager.initialize(tagManagerArgs);
 
 createRoot(document.getElementById('root')!).render(
     <StrictMode>
